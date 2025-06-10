@@ -36,6 +36,15 @@ This Tableau project explores employment trends across the UK from 2011 to 2014 
 ## 📌 Tools Used
 - Tableau Desktop (for visualisation)
 - Microsoft Excel (for initial data cleaning and preparation)
+  
+## 🚀 How to Explore
+ 
+1. Download the TWBX file (UK Employment Data (1).twbx)
+
+2. Open it with Tableau Desktop (version 2020.4 or later recommended)
+
+3. Interact with filters and visuals to explore employment trends
+ 
 ## My Dashboard
 [Link to My Dashboard](https://public.tableau.com/app/profile/krishan.mehta/viz/UKEmploymentDashboard2011-2014/Dashboard1)
 ![image](https://github.com/user-attachments/assets/916724e2-4d1b-47f0-b376-48db3de6d80c)
